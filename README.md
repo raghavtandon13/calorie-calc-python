@@ -1,7 +1,8 @@
 # Calorie Calculator App
-This is a web application built with Python, Django and SQL that allows users to calculate their daily calorie intake based on their personal information and fitness goals.
+This is a web application built in Python with Django framework that allows users to calculate their daily calorie intake based on their personal information and fitness goals.
 ## Features
 - User registration and authentication
+- Choose from hundreds of food items present in our database or add your own food items to the list
 - Calculate daily calorie needs based on user's personal information such as age, gender, height, weight and activity level
 - Track daily calorie intake and exercise
 - Set and monitor fitness goals
@@ -17,8 +18,16 @@ This is a web application built with Python, Django and SQL that allows users to
 - Django 3.2 or higher
 - Git (optional)
 ## Login Page
-![Web capture_10-4-2023_144510_127 0 0 1](https://user-images.githubusercontent.com/121853010/230875661-e92132b4-7542-4bf7-8268-8c6d912b73fb.jpeg)
+ ![Web capture_10-4-2023_144510_127 0 0 1](https://user-images.githubusercontent.com/121853010/230895820-51bbcc23-8345-4678-b0fb-17ca5584d7e5.jpeg)
+
 ## Sign Up Page
-![Web capture_10-4-2023_144528_127 0 0 1](https://user-images.githubusercontent.com/121853010/230875760-b356ae6c-c407-4423-8906-2679e2e01efb.jpeg)
+
+![Web capture_10-4-2023_144528_127 0 0 1](https://user-images.githubusercontent.com/121853010/230895888-98660e0a-5e90-404c-a83a-c9b8a7756518.jpeg)
+
 ## User Home Page
-![Web capture_10-4-2023_145240_127 0 0 1](https://user-images.githubusercontent.com/121853010/230875963-0627f029-e322-46ca-825c-ef202c1f7193.jpeg)
+
+
+![Web capture_10-4-2023_145240_127 0 0 1](https://user-images.githubusercontent.com/121853010/230895959-91e0b4be-92e9-4e39-8851-8f4cffa571b4.jpeg)
+
+## Password Reset
+![Web capture_10-4-2023_14462_127 0 0 1](https://user-images.githubusercontent.com/121853010/230896064-38db30ca-3746-477b-91c4-5013f8b34b3a.jpeg)
