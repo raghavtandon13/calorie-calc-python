@@ -31,3 +31,35 @@ This is a web application built in Python with Django framework that allows user
 
 ## Password Reset
 ![Web capture_10-4-2023_14462_127 0 0 1](https://user-images.githubusercontent.com/121853010/230896064-38db30ca-3746-477b-91c4-5013f8b34b3a.jpeg)
+
+
+## Installation and Setup
+1. Clone this repository or download and extract the zip file.
+```
+git clone https://github.com/your_username/calorie-calculator.git
+
+```
+2. Navigate to the project directory.
+```
+cd calorie-calculator
+```
+3. Install the required dependencies.
+```
+pip install -r requirements.txt
+```
+4. Run database migrations.
+```
+python manage.py migrate
+```
+5. Create a superuser account for accessing the admin site.
+```
+python manage.py createsuperuser
+```
+6. Start the development server.
+```
+python manage.py runserver
+```
+7. Open your web browser and go to http://localhost:8000/ to access the application.
+
+## Contributions
+Contributions to this project are welcome. To contribute, please fork the repository and create a new branch for your changes. Once you have made your changes, submit a pull request for review.
